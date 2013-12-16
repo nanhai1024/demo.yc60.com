@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #360;
+	margin: 0px;
+	font-size: 12px;
+}
+.footer {
+	background-color: #FFF;
+	text-align: center;
+}

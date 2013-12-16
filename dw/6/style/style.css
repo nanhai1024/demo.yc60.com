@@ -1,0 +1,519 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+	color: #FFF;
+	background-image: url(../images/sds_bg.jpg);
+}
+a {
+	color: #FFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFF;
+	text-decoration: underline;
+}
+#header {
+	height: 35px;
+	width: 740px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-image: url(../images/top1.jpg);
+	line-height: 35px;
+	text-align: right;
+	padding-right: 20px;
+}
+#link {
+	height: 55px;
+	width: 760px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-image: url(../images/top2.jpg);
+}
+#link ul {
+	list-style-type: none;
+	padding: 0px;
+	background-color: #F00;
+	height: 25px;
+	width: 688px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#link ul li {
+	height: 25px;
+	width: 86px;
+	background-image: url(../images/ng_index0809_4.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	line-height: 25px;
+	text-align: center;
+}
+#link ol {
+	height: 30px;
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	text-align: center;
+	line-height: 30px;
+}
+#link ol li {
+	display: inline;
+}
+#link ol li a {
+	padding-right: 5px;
+	padding-left: 5px;
+}
+#banner {
+	height: 55px;
+	width: 760px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-image: url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	text-align: center;
+	padding-top: 223px;
+}
+#main {
+	background-color: #000;
+	height: 1350px;
+	width: 734px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 10px;
+	padding-right: 13px;
+	padding-bottom: 10px;
+	padding-left: 13px;
+}
+#main #news {
+	height: 225px;
+	width: 503px;
+	float: left;
+	background-image: url(../images/sds_40.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#main #news h1 {
+	height: 38px;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../images/sds_34.jpg);
+	font-size: 12px;
+	text-indent: -9999px;
+}
+#main #news .news_main {
+	height: 167px;
+	background-image: url(../images/sds_36.jpg);
+}
+
+#main #anim {
+	height: 225px;
+	width: 220px;
+	float: right;
+	background-image: url(../images/sds_41.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#main #anim h1 {
+	margin: 0px;
+	padding: 0px;
+	height: 37px;
+	background-image: url(../images/sds_35.jpg);
+	background-repeat: no-repeat;
+	font-size: 12px;
+	text-indent: -9999px;
+}
+#main #anim .anim_main {
+	background-image: url(../images/sds_36.jpg);
+	height: 169px;
+}
+#main #anim .anim_main ul {
+	list-style-type: none;
+	width: 92%;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#main #anim .anim_main ul li {
+	line-height: 20px;
+	height: 20px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #FFF;
+}
+
+#main #news .news_main dl {
+	float: left;
+	width: 170px;
+	margin: 0px;
+	padding: 0px;
+}
+#main #news .news_main dl dt {
+	text-align: center;
+	padding-top: 10px;
+}
+#main #news .news_main dl dd {
+	text-align: center;
+	margin: 0px;
+	padding-top: 5px;
+	padding-right: 30px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+}
+#main #news .news_main ul {
+	float: right;
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	width: 315px;
+}
+#main #news .news_main ul li {
+	height: 20px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #FFF;
+	line-height: 20px;
+}
+#main #news .news_main ul li em {
+	font-style: normal;
+	float: right;
+}
+
+
+#main #subject {
+	float: left;
+	height: 362px;
+	width: 734px;
+	margin-top: 10px;
+	background-image: url(../images/sds_45.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#main #subject h1 {
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+	height: 37px;
+	background-image: url(../images/sds_42.jpg);
+	text-indent: -9999px;
+}
+#main #subject .subject_left {
+	height: 305px;
+	width: 367px;
+	float: left;
+	background-image: url(../images/sds_44.jpg);
+}
+#main #subject .subject_left .xinshi {
+	float: left;
+	padding-right: 10px;
+}
+#main #subject .subject_left p {
+	margin: 0px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	letter-spacing: 1px;
+	line-height: 150%;
+	height: 205px;
+}
+#main #subject .subject_left p strong {
+	color: #000;
+}
+#main #subject .subject_left .pdl {
+	border: 1px dashed #FF9;
+	margin-left: 10px;
+}
+
+#main #subject .subject_right {
+	margin: 0px;
+	float: right;
+	height: 305px;
+	width: 347px;
+	background-color: #339;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	background-image: url(../images/sds_44.jpg);
+}
+#main #subject .subject_right dl {
+	margin: 0px;
+	padding: 0px;
+	width: 170px;
+	float: left;
+}
+#main #subject .subject_right dl dt {
+	text-align: center;
+	padding-top: 10px;
+}
+#main #subject .subject_right dl dd {
+	margin: 0px;
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+	text-align: center;
+}
+#main #subject .subject_right ul {
+	float: left;
+	list-style-type: none;
+	margin: 0px;
+	width: 320px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#main #subject .subject_right ul li {
+	height: 20px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #FFF;
+	line-height: 20px;
+}
+#main #subject .subject_right ul li em {
+	font-style: normal;
+	float: right;
+}
+
+
+
+#main #download {
+	float: left;
+	height: 225px;
+	width: 503px;
+	margin-top: 10px;
+	background-image: url(../images/sds_40.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#main #download h1 {
+	font-size: 12px;
+	background-image: url(../images/sds_46.jpg);
+	background-repeat: no-repeat;
+	height: 36px;
+	margin: 0px;
+	padding: 0px;
+	text-indent: -9999px;
+}
+#main #download .donwload_main {
+	background-image: url(../images/sds_36.jpg);
+	height: 169px;
+}
+#main #download .donwload_main dl {
+	margin: 0px;
+	padding: 0px;
+	width: 170px;
+	float: left;
+}
+#main #download .donwload_main dl dt {
+	text-align: center;
+	padding-top: 10px;
+}
+#main #download .donwload_main dl dd {
+	margin: 0px;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	text-align: center;
+}
+#main #download .donwload_main ul {
+	list-style-type: none;
+	margin: 0px;
+	float: right;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	width: 315px;
+}
+#main #download .donwload_main ul li {
+	line-height: 20px;
+	height: 20px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #FFF;
+}
+#main #download .donwload_main ul li em {
+	font-style: normal;
+	float: right;
+}
+
+
+#main #report {
+	float: right;
+	height: 225px;
+	width: 220px;
+	margin-top: 10px;
+	background-image: url(../images/sds_41.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#main #report h1 {
+	font-size: 12px;
+	background-image: url(../images/sds_47.jpg);
+	background-repeat: no-repeat;
+	height: 36px;
+	margin: 0px;
+	padding: 0px;
+	text-indent: -9999px;
+}
+#main #report .report_main {
+	background-image: url(../images/sds_36.jpg);
+	height: 170px;
+}
+#main #report .report_main ul {
+	list-style-type: none;
+	width: 92%;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#main #report .report_main ul li {
+	line-height: 20px;
+	height: 20px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #FFF;
+}
+
+#main #pics {
+	float: left;
+	height: 185px;
+	width: 734px;
+	margin-top: 10px;
+	background-image: url(../images/sds_53.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+#main #pics h1 {
+	height: 185px;
+	width: 50px;
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	background-image: url(../images/sds_51.jpg);
+	text-indent: -9999px;
+	float: left;
+}
+#main #pics .pics_main {
+	float: left;
+	height: 185px;
+	width: 666px;
+	background-image: url(../images/sds_52.jpg);
+}
+#main #pics .pics_main dl {
+	margin: 0px;
+	padding: 0px;
+	width: 165px;
+	float: left;
+}
+#main #pics .pics_main dl dt {
+	text-align: center;
+	padding-top: 15px;
+}
+#main #pics .pics_main dl dd {
+	margin: 0px;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	text-align: center;
+}
+
+
+#main #footer {
+	float: left;
+	height: 296px;
+	width: 734px;
+	margin-top: 10px;
+	background-image: url(../images/sds_45.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#main #footer h1 {
+	margin: 0px;
+	padding: 0px;
+	height: 39px;
+	background-image: url(../images/sds_54.jpg);
+	background-repeat: no-repeat;
+	font-size: 12px;
+	text-indent: -9999px;
+}
+#main #footer .footer_main {
+	height: 237px;
+	background-image: url(../images/sds_44.jpg);
+}
+#main #footer .footer_main ul {
+	float: left;
+	margin: 0px;
+	width: 220px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	list-style-type: none;
+}
+#main #footer .footer_main ol {
+	float: left;
+	margin: 0px;
+	width: 220px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	list-style-type: none;
+}
+#main #footer .footer_main li {
+	line-height: 20px;
+	height: 20px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #FFF;
+}
+#main #footer .footer_main h2 {
+	float: left;
+	height: 32px;
+	margin: 0px;
+	padding: 0px;
+	width: 220px;
+	font-size: 12px;
+	background-image: url(../images/sds_58.jpg);
+	background-repeat: no-repeat;
+	background-position: 10px bottom;
+	text-indent: -9999px;
+}
+#main #footer .footer_main img {
+	float: left;
+	padding-top: 6px;
+	padding-right: 11px;
+	padding-bottom: 6px;
+	padding-left: 11px;
+}

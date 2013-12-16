@@ -1,0 +1,347 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #FFF;
+	font-size: 12px;
+	padding: 0px;
+	width: 996px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#header {
+	height: 120px;
+	width: 996px;
+	margin-bottom: 20px;
+	background-image: url(../images/header_top.jpg);
+	background-repeat: no-repeat;
+}
+#header h1 {
+	height: 76px;
+	width: 132px;
+	font-size: 12px;
+	text-indent: -9999px;
+	background-image: url(../images/logo.jpg);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	background-position: right bottom;
+	float: left;
+}
+#header #nav {
+	height: 40px;
+	width: 792px;
+	float: right;
+	margin-top: 40px;
+	background-image: url(../images/header_nav.jpg);
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+#header #nav ul {
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+}
+#header #nav ul li {
+	float: left;
+	height: 40px;
+	width: 110px;
+}
+#header #nav ul li a {
+	height: 40px;
+	width: 100px;
+	display: block;
+	text-indent: -9999px;
+	background-position: center center;
+}
+#header #nav ul li a.nav1 {
+	background-image: url(../images/nav_over_1.png);
+	background-repeat: no-repeat;
+}
+#header #nav ul li a.nav2 {
+	background-image: url(../images/nav_out_2.png);
+	background-repeat: no-repeat;
+}
+
+#header #nav ul li a.nav3 {
+	background-image: url(../images/nav_out_3.png);
+	background-repeat: no-repeat;
+}
+#header #nav ul li a.nav4 {
+	background-image: url(../images/nav_out_4.png);
+	background-repeat: no-repeat;
+}
+#header #nav ul li a.nav5 {
+	background-image: url(../images/nav_out_5.png);
+	background-repeat: no-repeat;
+}
+#header #nav ul li a.nav6 {
+	background-image: url(../images/nav_out_6.png);
+	background-repeat: no-repeat;
+}
+#header #nav ul li a.nav7 {
+	background-image: url(../images/nav_out_7.png);
+	background-repeat: no-repeat;
+}
+#header #nav2 {
+	float: right;
+	height: 30px;
+	width: 762px;
+	line-height: 30px;
+	padding-left: 30px;
+	color: #666;
+}
+
+
+
+
+
+
+
+
+
+
+#adver {
+	height: 432px;
+	width: 545px;
+	float: right;
+	border: 1px solid #999;
+}
+#adver img {
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
+#news {
+	height: 138px;
+	width: 440px;
+	float: left;
+	margin-bottom: 10px;
+}
+#news h2 {
+	height: 19px;
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	background-image: url(../images/newsh2.jpg);
+	background-repeat: no-repeat;
+	background-position: 20px;
+}
+#news ul {
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+#news ul li {
+	height: 25px;
+	line-height: 25px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999;
+	color: #333;
+}
+#news ul li em {
+	font-style: normal;
+	float: right;
+}
+#newpro h2 {
+	margin: 0px;
+	height: 16px;
+	font-size: 12px;
+	background-image: url(../images/newproh2.jpg);
+	background-repeat: no-repeat;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	background-position: 20px;
+}
+#newpro dl {
+	float: left;
+	margin: 0px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+}
+#newpro dl dd {
+	margin: 0px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	text-align: center;
+}
+#newpro dl dt img {
+	border: 2px solid #CCC;
+}
+#news h2 img {
+	float: right;
+}
+
+
+#newpro {
+	height: 138px;
+	width: 440px;
+	float: left;
+	margin-bottom: 10px;
+}
+#newpro h2 img {
+	float: right;
+}
+
+#advpro {
+	height: 138px;
+	width: 440px;
+	float: left;
+	margin-bottom: 10px;
+}
+#advpro h2 {
+	margin: 0px;
+	padding: 0px;
+	height: 36px;
+	font-size: 12px;
+	background-image: url(../images/advh2.jpg);
+	background-position: 30px;
+	background-repeat: no-repeat;
+}
+#advpro img {
+	border: 2px solid #CCC;
+	margin-left: 30px;
+	margin-top: 5px;
+}
+
+#footer {
+	height: 116px;
+	width: 996px;
+	clear: both;
+	background-image: url(../images/footer_bg.jpg);
+	background-repeat: no-repeat;
+}
+#footer2 {
+	height: 38px;
+	width: 996px;
+	background-image: url(../images/footer_bg2.jpg);
+	background-repeat: no-repeat;
+}
+#footer p {
+	color: #FFF;
+	text-align: center;
+	padding-top: 60px;
+}
+#footer2 p {
+	margin: 0px;
+	color: #FFF;
+	text-align: right;
+	padding-top: 3px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+#header #nav ul li a.nav2:hover {
+	background-image: url(../images/nav_over_2.png);
+	background-repeat: no-repeat;
+}
+#header #nav ul li a.nav3:hover {
+	background-image: url(../images/nav_over_3.png);
+	background-repeat: no-repeat;
+}
+#header #nav ul li a.nav4:hover {
+	background-image: url(../images/nav_over_4.png);
+	background-repeat: no-repeat;
+}
+#header #nav ul li a.nav5:hover {
+	background-image: url(../images/nav_over_5.png);
+	background-repeat: no-repeat;
+}
+#header #nav ul li a.nav6:hover {
+	background-image: url(../images/nav_over_6.png);
+	background-repeat: no-repeat;
+}
+#header #nav ul li a.nav7:hover {
+	background-image: url(../images/nav_over_7.png);
+	background-repeat: no-repeat;
+}
+#sidebar {
+	height: 800px;
+	width: 204px;
+	float: left;
+	margin-bottom: 10px;
+}
+#sidebar h2 {
+	height: 47px;
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	background-image: url(../images/sidebarh2.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+#sidebar ul {
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+	color: #09F;
+}
+#sidebar ul li {
+	height: 25px;
+	line-height: 25px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #09F;
+}
+#main {
+	float: right;
+	height: 800px;
+	width: 765px;
+	margin-bottom: 10px;
+}
+#main h2 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	height: 166px;
+	width: 619px;
+	background-image: url(../images/mainh2.jpg);
+	background-repeat: no-repeat;
+}
+#main h3 {
+	padding: 0px;
+	height: 23px;
+	width: 619px;
+	background-image: url(../images/mainh3.jpg);
+	background-repeat: no-repeat;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+#main p img {
+	float: left;
+	padding-right: 10px;
+}
+#main p {
+	margin: 0px;
+	padding: 0px;
+	color: #666;
+	line-height: 150%;
+	letter-spacing: 1px;
+}
+#main p.text {
+	padding-right: 120px;
+	padding-top: 15px;
+}

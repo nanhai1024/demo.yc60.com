@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #333;
+	margin: 0px;
+	font-size: 12px;
+}
+.adv {
+	background-image: url(../images/body.jpg);
+	color: #FFF;
+	line-height: 270px;
+	text-align: right;
+	padding-right: 30px;
+}
+.nav {
+	background-color: #000;
+	color: #FFF;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 40px;
+}
+a {
+	color: #FFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #C00;
+}
+.jj {
+	text-indent: 25px;
+	line-height: 150%;
+	padding: 30px;
+}

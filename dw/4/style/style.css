@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0px;
+	background-color: #FFF;
+	background-image: url(../images/bg.jpg);
+	background-repeat: repeat-x;
+	font-size: 12px;
+}
+.footer {
+	color: #CCC;
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	text-align: center;
+}
+.footerlink {
+	font-size: 12px;
+	color: #FFC;
+	background-image: url(../images/bg.gif);
+	text-align: center;
+}
+.arrow {
+	background-image: url(../images/bg.gif);
+	padding-left: 15px;
+	font-weight: bold;
+	color: #FFF;
+}
+.startbg {
+	background-image: url(../images/zhai2.jpg);
+}
+
+.titleh {
+	color: #CCC;
+	background-color: #333;
+	text-align: center;
+}
+.arrow a {
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+}
+.flowerbg {
+	background-image: url(../images/flower3.jpg);
+}
+.gradbg {
+	background-image: url(../images/grad1.jpg);
+}
+.cakebg {
+	background-image: url(../images/cake2.jpg);
+}
+.manbg {
+	background-image: url(../images/zhen1.jpg);
+}
+.rainbg {
+	background-image: url(../images/rain2.jpg);
+}
+.love886bg {
+	background-image: url(../images/886love1.jpg);
+}
+.summer {
+	background-image: url(../images/srmain1.jpg);
+}
+.footerlink a {
+	color: #FFC;
+	text-decoration: none;
+}
+.footerlink a:hover {
+	text-decoration: underline;
+}
+.anbg {
+	background-image: url(../images/ann.jpg);
+}
+.leftbg {
+	background-image: url(../images/rever.jpg);
+}
+.musicbg {
+	background-image: url(../images/music.jpg);
+}
+.footer a {
+	color: #CCC;
+	text-decoration: none;
+}
+.footer a:hover {
+	text-decoration: underline;
+}
+object {
+	display: block;
+}

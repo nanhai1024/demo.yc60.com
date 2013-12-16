@@ -1,0 +1,183 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-size: 12px;
+	margin: 0px;
+	background-color: #FFF;
+}
+.header {
+	background-image: url(../images/header_bg.jpg);
+	background-repeat: repeat;
+}
+.header2{
+	background-image: url(../images/header.jpg);
+	background-repeat: no-repeat;
+	color: #930;
+	text-align: right;
+	padding-right: 30px;
+	font: bold 14px Arial, Helvetica, sans-serif;
+}
+.header2 em {
+	font-style: normal;
+	font-weight: normal;
+	color: #333;
+	font-size: 12px;
+}
+.sidebar_table {
+	background-image: url(../images/sidebar_bg.jpg);
+	background-repeat: repeat-y;
+	background-position: right;
+}
+.sidebar_leftimg {
+	padding-right: 8px;
+}
+.sidebar_nav {
+	background-image: url(../images/sidebar_nav.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-weight: bold;
+	color: #FFF;
+	padding-left: 32px;
+}
+.sidebar_table ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.sidebar_table ul li {
+	height: 28px;
+	line-height: 28px;
+	padding-left: 50px;
+}
+.sidebar_table ul li a {
+	color: #000;
+	text-decoration: none;
+}
+.sidebar_table ul li a:hover {
+	color: #F60;
+}
+
+.sidebar_li_1 {
+	background-image: url(../images/s1.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_2 {
+	background-image: url(../images/s2.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_3 {
+	background-image: url(../images/s3.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_4 {
+	background-image: url(../images/s4.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_5 {
+	background-image: url(../images/s5.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_6 {
+	background-image: url(../images/s6.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_7 {
+	background-image: url(../images/s7.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_8 {
+	background-image: url(../images/s8.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_9 {
+	background-image: url(../images/s9.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_10 {
+	background-image: url(../images/s10.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_11 {
+	background-image: url(../images/s11.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_12 {
+	background-image: url(../images/s12.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+.sidebar_li_13 {
+	background-image: url(../images/s13.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px center;
+}
+h2 {
+	font-size: 12px;
+	font-weight: bold;
+	padding: 0px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+}
+.pemail {
+	margin-left: 20px;
+	padding: 0px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.pemail em {
+	font-style: normal;
+	color: #06F;
+	float: right;
+	padding-right: 30px;
+}
+.emailtable {
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	background-color: #FFFFE8;
+}
+.emailtable .tr {
+	background-image: url(../images/emailbg.jpg);
+}
+.pemail #textfield {
+	width: 92%;
+	height: 20px;
+	border: 1px solid #333;
+	background-color: #FFFFEC;
+}
+.pemail #textfield2 {
+	height: 20px;
+	width: 92%;
+	border: 1px solid #333;
+	background-color: #FFE;
+}
+.pemail #textarea {
+	width: 92%;
+	height: 300px;
+	border: 1px solid #333;
+	background-color: #FFE;
+}
+.pemail #button {
+	display: block;
+	margin: auto;
+	border: 1px solid #333;
+	background-color: #FFF;
+	cursor: pointer;
+	height: 25px;
+}

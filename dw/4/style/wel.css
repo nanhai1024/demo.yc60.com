@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #FFF;
+	background-image: url(../images/bg.jpg);
+	background-repeat: repeat-x;
+	margin-top: 100px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.table {
+	background-color: #FFF;
+	background-image: none;
+}
+table {
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-image: url(../images/tablebg.jpg);
+}
+td {
+	text-align: center;
+}
+a {
+	font: 14px "Arial Black";
+	color: #060;
+	text-decoration: none;
+}
+img {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}

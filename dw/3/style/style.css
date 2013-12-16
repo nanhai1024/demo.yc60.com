@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-size: 12px;
+	background-color: #FFF;
+	margin: 0px;
+}
+.footer {
+	text-align: center;
+}
+.lefttitle {
+	background-image: url(../images/left_pro_title.jpg);
+	color: #FFF;
+	text-indent: 35px;
+}
+.lefttable {
+	background-color: #EDEFEE;
+}
+.listtitle {
+	padding-left: 30px;
+	background-image: url(../images/protitle.jpg);
+	background-repeat: no-repeat;
+	background-position: 15px center;
+	font-weight: bold;
+}
+.listli {
+	padding-left: 30px;
+	background-image: url(../images/procontent.jpg);
+	background-repeat: no-repeat;
+	background-position: 15px center;
+}
+.search {
+	background-image: url(../images/search_bg.jpg);
+	color: #FFF;
+	padding-left: 15px;
+}
+.titleh {
+	background-image: url(../images/contact_pot.jpg);
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-color: #FFF;
+	padding-left: 20px;
+	font-weight: bold;
+	color: #C00;
+}
+ul {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+.contact {
+	border: 1px solid #999;
+}
+.nav {
+	background-image: url(../images/menu_bg.jpg);
+	background-repeat: repeat-x;
+	padding-left: 20px;
+	color: #F30;
+}
+li {
+	padding-bottom: 12px;
+}
+.nav a {
+	color: #FFF;
+	text-decoration: none;
+}
+.nav a:hover {
+	text-decoration: underline;
+}
+.lefttable a {
+	color: #000;
+	text-decoration: none;
+}
+.lefttable a:hover {
+	color: #900;
+	text-decoration: underline;
+}
+.indexjj {
+	line-height: 150%;
+	text-indent: 25px;
+	padding: 10px;
+}
+p {
+	line-height: 120%;
+	text-indent: 25px;
+}
+.protd {
+	font-weight: bold;
+	color: #900;
+	text-align: center;
+	background-color: #CCC;
+}

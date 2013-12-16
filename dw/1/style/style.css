@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #ff1e70;
+	margin: 0px;
+	font-size: 12px;
+}
+.myimg {
+	border: 1px solid #F36;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #F36;
+	text-indent: 25px;
+	margin: 10px;
+	line-height: 150%;
+}
+.guestfont {
+	color: #F36;
+}
+.button1 {
+	height: 28px;
+	width: 88px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	background-image: url(../images/submit.jpg);
+	text-align: left;
+	cursor: pointer;
+}
+.button2 {
+	background-image: url(../images/reset.jpg);
+	height: 28px;
+	width: 88px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	cursor: pointer;
+}
+
+.table {
+	background-color: #FFF;
+}
+.page {
+	color: #F36;
+	text-align: center;
+}
+.guestbg {
+	background-image: url(../images/bgguest.jpg);
+}
